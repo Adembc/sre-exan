@@ -11,3 +11,8 @@ Add prometheus as data source in grafana
 First panel dashboard
 ![alt text](image-3.png)
 Second panel dashboard
+![alt text](image-7.png)
+![alt text](image-8.png)
+
+Note: The /card endpoint is crashing so the second dashboard is empty
+![alt text](image-6.png)
